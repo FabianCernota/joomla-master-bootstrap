@@ -39,7 +39,7 @@ if ($this->countModules('right') == 0):?>
 
 <jdoc:include type="head" />
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0"
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 <!-- Stylesheets -->
 
